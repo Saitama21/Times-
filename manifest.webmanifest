@@ -1,0 +1,17 @@
+{
+  "name": "Times — Время обработки",
+  "short_name": "Times CNC",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#081117",
+  "theme_color": "#081117",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
